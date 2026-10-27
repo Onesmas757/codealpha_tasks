@@ -1,0 +1,10 @@
+2026-10-24 12:37:36  [ALERT] LAB possible TCP SYN port scan (simulated) from 203.0.113.50
+2026-10-24 12:37:36  [DRY-RUN] would run: nft add rule inet lab_ids input ip saddr 203.0.113.50 drop
+2026-10-24 12:38:03  [ALERT] LAB possible TCP SYN port scan (simulated) from 203.0.113.50
+2026-10-24 12:38:03  [DRY-RUN] would run: nft add rule inet lab_ids input ip saddr 203.0.113.50 drop
+2026-10-24 12:47:18  [ALERT] LAB possible TCP SYN port scan (simulated) from 203.0.113.50
+2026-10-24 12:47:18  [BLOCKED] 203.0.113.50 dropped by nftables table inet lab_ids
+2026-10-24 12:49:29  [CLEANUP] table removed
+2026-10-24 13:02:38  Watching logs/eve.json in DRY-RUN mode. Press Ctrl+C to stop.
+2026-10-24 13:03:27  [ALERT] LAB possible TCP SYN port scan from 127.0.0.1
+2026-10-24 13:03:27  [SKIPPED] 127.0.0.1 is protected, no action taken

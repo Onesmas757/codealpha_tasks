@@ -1,0 +1,5 @@
+10/24/2026-12:02:50.380428  [**] [1:1000001:1] LAB ICMP echo request (ping) detected [**] [Classification: Misc activity] [Priority: 3] {ICMP} 172.20.15.5:8 -> 8.8.8.8:0
+10/24/2026-12:02:51.381842  [**] [1:1000001:1] LAB ICMP echo request (ping) detected [**] [Classification: Misc activity] [Priority: 3] {ICMP} 172.20.15.5:8 -> 8.8.8.8:0
+10/24/2026-12:02:52.383213  [**] [1:1000001:1] LAB ICMP echo request (ping) detected [**] [Classification: Misc activity] [Priority: 3] {ICMP} 172.20.15.5:8 -> 8.8.8.8:0
+10/24/2026-12:31:04.893851  [**] [1:1000002:1] LAB possible TCP SYN port scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 127.0.0.1:41590 -> 127.0.0.1:21
+10/24/2026-13:03:27.001805  [**] [1:1000002:1] LAB possible TCP SYN port scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 127.0.0.1:64131 -> 127.0.0.1:111

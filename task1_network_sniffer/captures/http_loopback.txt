@@ -1,0 +1,72 @@
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.665
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: S
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.666
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: S
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.667
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: SA
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.667
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: SA
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.668
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: A
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.668
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: A
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.668
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: PA
+Payload (78 bytes): b'GET / HTTP/1.1\r\nHost: 127.0.0.1:8000\r\nUser-Agent: curl/8.14.'
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.669
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 45820 -> 8000  flags: PA
+Payload (78 bytes): b'GET / HTTP/1.1\r\nHost: 127.0.0.1:8000\r\nUser-Agent: curl/8.14.'
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.669
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: A
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.669
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: A
+Payload:     (none)
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.670
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: PA
+Payload (185 bytes): b'HTTP/1.0 200 OK\r\nServer: SimpleHTTP/0.6 Python/3.13.5\r\nDate:'
+------------------------------------------------------------
+Time:        2026-10-18 12:10:56.670
+Source:      127.0.0.1
+Destination: 127.0.0.1
+Protocol:    TCP  ports: 8000 -> 45820  flags: PA
+Payload (185 bytes): b'HTTP/1.0 200 OK\r\nServer: SimpleHTTP/0.6 Python/3.13.5\r\nDate:'

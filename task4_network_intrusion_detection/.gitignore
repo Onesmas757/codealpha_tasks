@@ -1,0 +1,4 @@
+logs/*
+!logs/fast.log
+__pycache__/
+*.pyc
